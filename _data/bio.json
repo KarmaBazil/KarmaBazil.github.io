@@ -1,0 +1,73 @@
+{
+  "basics": {
+    "name": "Karma Bazil",
+    "label": "Student",
+    "picture": "https://avatars.githubusercontent.com/u/111470359?s=400&u=0dded2b71f2ab05668ce705816c6cde256e9e35b&v=4",
+    "email": "karmarae1985@icloud.com",
+    "phone": "906-869-8641",
+    "website": "https://KarmaBazil.github.io",
+    "summary": "I am currently enrolled in a Junior Full Stack Java Developer Program with Generation USA, I am expected to graduate in December 2022",
+    "location": { "address": "", "postalCode": "49841", "city": "Gwinn", "countryCode": "USA", "region": "Michigan" },
+    "profiles": [
+      { "network": "github", "username": "KarmaBazil", "url": "http://github.com/KarmaBazil" },
+      { "network": "linkedin", "username": "Karma Bazil", "url": "https://www.linkedin.com/in/karma-bazil-700853236/" },
+    ]
+  },
+  "skills": [
+    {
+      "keywords": [ "HTML", "CSS", "Java", "Javascript", "Spring Boot", "Spring Data JPA", "Spring Security (JWT)", "Bootstrap", "REST API's", "SQL", "Unit Testing (JUnit, Mockito)", "SOLID OOP Principles", "Dependencies Injection", "Git"   ]
+    },
+   
+  ],
+  "education": [
+    {
+      "institution": "Herzing University",
+      "area": "Software Development Degree",
+      "studyType": "A.S.",
+      "startDate": "2018",
+      "endDate": "2020",
+      [
+      ]
+    },
+     {
+      "institution": "United States Air Force",
+      "area": "Dental Assistant Journeyman",
+      "studyType": "A1C",
+      "startDate": "2008",
+      "endDate": "2012",
+      [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Generation USA",
+      "position": "Junior Full Stack Java Developer",
+      "startDate": "2022",
+      "endDate": "Present",
+      "summary": "Participating in a 16-week, 460+hour Junior Full Stack Java Developer program that emphasizes hands-on practical application",
+      "highlights": [
+        "Learning and deploying the technologies involved in creating full stack web applications with Java using Spring Boot Framework, JavaScript, HTML5, CSS3",
+        "Implementing basic unit tests and deploying the application to Heroku"
+      ]
+    }
+  ],
+
+  "Certifications": [
+    {
+      "title": "Professional Scrum Master 1 Certification",
+      "date": "February 2022",
+      "awarder": "Scrum.org",
+    },
+    {
+      "title": "JavaScript Developer Certification",
+      "date": "November 2022",
+      "awarder": "W3Schools",
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
