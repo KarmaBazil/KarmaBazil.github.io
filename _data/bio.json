@@ -13,13 +13,6 @@
       { "network": "linkedin", "username": "Karma Bazil", "url": "https://www.linkedin.com/in/karma-bazil-700853236/" },
     ]
   },
-  "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
-  ],
   "skills": [
     {
       "keywords": [ "HTML", "CSS", "Java", "Javascript", "Spring Boot", "Spring Data JPA", "Spring Security (JWT)", "Bootstrap", "REST API's", "SQL", "Unit Testing (JUnit, Mockito)", "SOLID OOP Principles", "Dependencies Injection", "Git"   ]
