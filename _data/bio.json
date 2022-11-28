@@ -2,7 +2,7 @@
   "basics": {
     "name": "Karma Bazil",
     "label": "Student",
-    "picture": "https://media.githubusercontent.com/avatars/27277340?orig=1&token=A2SOOF6OZHIVSSJD3FO3UWLDQQH4I",
+    "picture": "https://avatars.githubusercontent.com/u/111470359?s=400&u=0dded2b71f2ab05668ce705816c6cde256e9e35b&v=4",
     "email": "karmarae1985@icloud.com",
     "phone": "906-869-8641",
     "website": "https://KarmaBazil.github.io",
@@ -24,8 +24,8 @@
       "institution": "Herzing University",
       "area": "Software Development Degree",
       "studyType": "A.S.",
-      "startDate": "June 2018",
-      "endDate": "April 2020",
+      "startDate": "2018",
+      "endDate": "2020",
       [
       ]
     },
@@ -33,8 +33,8 @@
       "institution": "United States Air Force",
       "area": "Dental Assistant Journeyman",
       "studyType": "A1C",
-      "startDate": "May 2008",
-      "endDate": "May 2012",
+      "startDate": "2008",
+      "endDate": "2012",
       [
       ]
     }
@@ -43,7 +43,7 @@
     {
       "company": "Generation USA",
       "position": "Junior Full Stack Java Developer",
-      "startDate": "September, 2022",
+      "startDate": "2022",
       "endDate": "Present",
       "summary": "Participating in a 16-week, 460+hour Junior Full Stack Java Developer program that emphasizes hands-on practical application",
       "highlights": [
